@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Lucas Vinícius 👋
+A Fullstack Developer Student focused on starting a career.
+
+I'm currently learning HTML, CSS, JavaScript, Reactjs, Node.js.
+
 
 <!--
 **fawnbr/fawnbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
