@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas Vinícius 👋
 A Fullstack Developer Student focused on starting a career.
 
-I'm currently learning HTML, CSS, JavaScript, Reactjs, Node.js.
+I'm currently learning Reactjs, Node.js, Sass.
 
 
 <!--
