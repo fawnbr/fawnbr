@@ -2,7 +2,7 @@
 A Front-End Developer Student focused on starting a career.
 Graduating in Information Technology at Universidade Federal do Rio Grande do Norte
 
-I'm currently learning Reactjs, Node.js, Sass.
+I'm currently learning Reactjs, Node.js.
 
 
 <!--
