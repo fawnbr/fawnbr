@@ -1,8 +1,8 @@
 ### Hi there, I'm Lucas Vinícius 👋
-A Front-End Developer Student focused on starting a career.
+A Web Developer Student focused on starting a career.
 Graduating in Information Technology at Universidade Federal do Rio Grande do Norte
 
-I'm currently learning Reactjs, Node.js.
+I'm currently learning Nextjs and Design Patterns.
 
 
 <!--
