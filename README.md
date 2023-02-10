@@ -22,4 +22,4 @@ Graduating in Information Technology at Universidade Federal do Rio Grande do No
 </div>
 
 ## Studying
-I'm currently learning Vuejs and Design Patterns.
+I'm currently learning Spring Webflux and testing.
