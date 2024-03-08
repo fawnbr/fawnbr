@@ -1,5 +1,5 @@
 ## Hi there, I'm Lucas Vinícius 👋
-A Software Developer focused on backend development.
+A Software Engineer focused on backend development.
 
 Graduating in Information Technology at Universidade Federal do Rio Grande do Norte.
 
@@ -25,7 +25,7 @@ Graduating in Information Technology at Universidade Federal do Rio Grande do No
   <img align="center" alt="Lucas-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Lucas-Neo4j" height="30" width="60" src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg">
-  <img align="center" alt="Lucas-RabbitMQ" height="30" width="60" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg">                    
+  <img align="center" alt="Lucas-RabbitMQ" height="30" width="60" src="https://www.rabbitmq.com/img/rabbitmq-logo-with-name.svg">                    
 </div>
 
 ### Testing
