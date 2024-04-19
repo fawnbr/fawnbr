@@ -53,4 +53,4 @@ Graduating in Information Technology at Universidade Federal do Rio Grande do No
 </div>
 
 ## Studying
-I'm currently learning Flask and Kubernetes.
+I'm currently learning Angular.
