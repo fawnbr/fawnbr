@@ -32,7 +32,7 @@ Graduating in Information Technology at Universidade Federal do Rio Grande do No
 <div style="display: inline_block">
    <img align="center" alt="Lucas-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
    <img align="center" alt="Lucas-JUnit5" height="30" width="40" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
-   <img align="center" alt="Lucas-Cypress" height="30" width="60" src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg""/>
+<!--    <img align="center" alt="Lucas-Cypress" height="30" width="60" src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg""/> -->
 </div>  
 
 ### Programming Languages
