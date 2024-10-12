@@ -1,7 +1,8 @@
 ## Hi there, I'm Lucas Vinícius 👋
 A Software Engineer focused on backend development.
 
-Graduating in Information Technology at Universidade Federal do Rio Grande do Norte.
+Bachelor's Degree in Information Technology at Universidade Federal do Rio Grande do Norte (UFRN - Brazil).
+Nowadays, I'm a mid-level backend developer using Java + Spring.
 
 ## Stacks
 
